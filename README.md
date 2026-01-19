@@ -321,20 +321,29 @@ void RGB_Demo_Rainbow(void)
 - [KY-016 RGB LED Module Datasheet](https://arduinomodules.info/ky-016-rgb-full-color-led-module/)
 ![BLUE](https://github.com/user-attachments/assets/9104e14f-694b-4f79-9553-1bd2853ae416)
 ![GREEN](https://github.com/user-attachments/assets/3f8b6f92-1483-42eb-a9b0-ec747fc14fda)
-![RED](https://github.com/user-attachments/assets/ab159ebe-ce64-4aab-ae3c-095a9b58b041)
+![RED](https://github.com/user-attachments/assets/ab159ebe-ce64-4aab-ae3c-095a9
 
+👍프로젝트 결과 
+
+RED
 ![RED](https://github.com/user-attachments/assets/cbc8bfa9-2e1a-41b1-96a2-6534584cd9f3)
 
+GREEN
 ![GREEN](https://github.com/user-attachments/assets/1f8ccb33-381f-44ac-91fb-bf0063ce8ff5)
 
+BLUE
 ![Uploading BLUE.jpg…]()
 
+YELLOW
 ![YELLOW](https://github.com/user-attachments/assets/f9aa4d5b-a665-4d14-a04e-7db238795347)
 
+CYAN
 ![CYAN](https://github.com/user-attachments/assets/1c0a5656-5749-46ea-8f8a-d857d3f02dcc)
 
+MAGENTA
 ![MAGENTA](https://github.com/user-attachments/assets/25874fa5-0771-407f-aa6d-f3a5394b853f)
 
+WHITE
 ![WHITE](https://github.com/user-attachments/assets/f5ef7380-091f-4055-844c-05d39b79d610)
 
 
