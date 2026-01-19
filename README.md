@@ -1,5 +1,3 @@
-![MAGENTA](https://github.com/user-attachments/assets/ef6741aa-2aa7-42e4-b2d3-5ae58cc17d68)![CYAN](https://github.com/user-attachments/assets/5bfb4e48-fc9a-4942-9b94-11d014242e40)# RGB LED Module Test - NUCLEO-F103RB
-
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
 ## 📌 개요
@@ -319,9 +317,7 @@ void RGB_Demo_Rainbow(void)
 
 - [STM32F103 Reference Manual](https://www.st.com/resource/en/reference_manual/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
 - [KY-016 RGB LED Module Datasheet](https://arduinomodules.info/ky-016-rgb-full-color-led-module/)
-![BLUE](https://github.com/user-attachments/assets/9104e14f-694b-4f79-9553-1bd2853ae416)
-![GREEN](https://github.com/user-attachments/assets/3f8b6f92-1483-42eb-a9b0-ec747fc14fda)
-![RED](https://github.com/user-attachments/assets/ab159ebe-ce64-4aab-ae3c-095a9
+
 
 👍프로젝트 결과 
 
